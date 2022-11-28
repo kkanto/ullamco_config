@@ -1,0 +1,37 @@
+generalInformation:
+  serviceAdminEmail: a
+  gheUsername: kkanto
+  billingAccount: a
+  billingTeamName: dupa
+  gheToken: ""
+  adpAccessToken: ""
+jira:
+  adminToken: ""
+  projectKey: a
+  projectName: a
+  leadUsername: a
+  documentationUrl: a
+projectInformation:
+  projectName: TestProjectNameMaven1243123121
+  projectShortName: ullamco
+  buildType: maven
+  testInstance: false
+  preprodInstance: false
+  uatInstance: false
+cloudService:
+  awsOrAzure: aks
+  deploymentLocation: azure_we1
+automationService:
+  jenkinsOrGithubActions: gheactions
+  jenkinsAdmin: ""
+  jenkinsDeveloper: ""
+  jenkinsKubernetesAccess: ""
+  kvUserOrGroupName: ""
+  nexusKubernetesAccess: ""
+gheOrganization:
+  organizationName: kkanto
+  isNew: false
+testingTools:
+  sonarQube: false
+  adminGroup: ""
+  kubernetesAccess: ""
